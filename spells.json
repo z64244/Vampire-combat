@@ -20,7 +20,7 @@
     {
       "id": "FRAPPE",
       "name": "Frappe",
-      "damage": 50,
+      "damage": 10,
       "pa": 8,
       "range": 2.5,
       "cooldown": 2,
@@ -36,7 +36,7 @@
     {
       "id": "MORSURE",
       "name": "Morsure",
-      "damage": 1,
+      "damage": 15,
       "pa": 15,
       "range": 2.0,
       "cooldown": 4,
@@ -48,6 +48,22 @@
       "effect": "DAMAGE",
       "effectValue": 0,
       "requiredLevel": 1
+    },
+        {
+      "id": "SOIN FULL",
+      "name": "Soin FULL",
+      "damage": 0,
+      "pa": 30,
+      "range": 0,
+      "cooldown": 10,
+      "casterAnim": "",
+      "targetAnim": "",
+      "casterFX": "HEAL",
+      "targetFX": "",
+      "sound": "",
+      "effect": "HEAL_SELF",
+      "effectValue": 2000,
+      "requiredLevel": 5
     },
     {
       "id": "SOIN",
