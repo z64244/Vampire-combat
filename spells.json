@@ -1,22 +1,22 @@
 {
-  "version": 1,
+  "version": 2,
   "spells": [
     {
-  "id": "SOIN_CIBLE",
-  "name": "Soin ciblé",
-  "damage": 0,
-  "pa": 30,
-  "range": 8,
-  "cooldown": 10,
-  "casterAnim": "",
-  "targetAnim": "",
-  "casterFX": "HEAL",
-  "targetFX": "HEAL",
-  "sound": "",
-  "effect": "HEAL_TARGET",
-  "effectValue": 1000,
-  "requiredLevel": 1000
-}
+      "id": "SOIN_CIBLE",
+      "name": "Soin ciblé",
+      "damage": 0,
+      "pa": 30,
+      "range": 8,
+      "cooldown": 10,
+      "casterAnim": "",
+      "targetAnim": "",
+      "casterFX": "HEAL",
+      "targetFX": "HEAL",
+      "sound": "",
+      "effect": "HEAL_TARGET",
+      "effectValue": 1000,
+      "requiredLevel": 1000
+    },
     {
       "id": "FRAPPE",
       "name": "Frappe",
