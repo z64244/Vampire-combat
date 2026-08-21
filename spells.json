@@ -20,7 +20,7 @@
     {
       "id": "MORSURE",
       "name": "Morsure",
-      "damage": 20,
+      "damage": 1,
       "pa": 15,
       "range": 2.0,
       "cooldown": 4,
