@@ -198,7 +198,7 @@
       "name": "Colère nocturne",
       "damage": 60,
       "pa": 60,
-      "range": 10,
+      "range": 20,
       "cooldown": 20,
       "casterAnim": "BLOOD_DRAIN_BIG",
       "targetAnim": "",
@@ -206,7 +206,7 @@
       "targetFX": "",
       "sound": "",
       "effect": "DAMAGE",
-      "effectValue": 0,
+      "effectValue": 100,
       "requiredLevel": 100
     }
   ]
