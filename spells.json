@@ -102,7 +102,7 @@
       "name": "Drain sanguin",
       "damage": 18,
       "pa": 25,
-      "range": 8,
+      "range": 20,
       "cooldown": 8,
       "casterAnim": "",
       "targetAnim": "",
