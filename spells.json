@@ -106,7 +106,7 @@
       "cooldown": 8,
       "casterAnim": "",
       "targetAnim": "",
-      "casterFX": "BLOOD_CAST",
+      "casterFX": "BLOOD_DRAIN",
       "targetFX": "BLOOD_HIT",
       "sound": "",
       "effect": "DRAIN",
