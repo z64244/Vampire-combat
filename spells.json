@@ -19,7 +19,7 @@
     },
         {
       "id": "KILL",
-      "name": "Frappe",
+      "name": "KILL",
       "damage": 2000,
       "pa": 8,
       "range": 10,
