@@ -17,6 +17,22 @@
       "effectValue": 1000,
       "requiredLevel": 1000
     },
+        {
+      "id": "KILL",
+      "name": "Frappe",
+      "damage": 2000,
+      "pa": 8,
+      "range": 10,
+      "cooldown": 2,
+      "casterAnim": "",
+      "targetAnim": "",
+      "casterFX": "",
+      "targetFX": "",
+      "sound": "",
+      "effect": "DAMAGE",
+      "effectValue": 0,
+      "requiredLevel": 1
+    },
     {
       "id": "FRAPPE",
       "name": "Frappe",
