@@ -200,7 +200,7 @@
       "pa": 60,
       "range": 10,
       "cooldown": 20,
-      "casterAnim": "",
+      "casterAnim": "BLOOD_DRAIN_BIG",
       "targetAnim": "",
       "casterFX": "",
       "targetFX": "",
