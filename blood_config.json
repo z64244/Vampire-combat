@@ -1,7 +1,7 @@
 {
   "blood_max": 100,
   "blood_gain": 25,
-  "bite_cooldown": 60,
+  "bite_cooldown": 5,
   "bite_range": 2.5,
   "blood_decay_amount": 10,
   "blood_decay_interval": 1800
